@@ -1,0 +1,5 @@
+{
+	"python.autoComplete.extraPaths":	["/Users/volzotan/Library/Application Support/Autodesk/Autodesk Fusion 360/API/Python/defs"],
+	"python.pythonPath":	"/Users/volzotan/Library/Application Support/Autodesk/webdeploy/production/aea9db95b176b4e876666d6d1c364de9e4dfc5b8/Autodesk Fusion 360.app/Contents/Frameworks/Python.framework/Versions/Current/bin/python",
+	"python.linting.pylintEnabled":	false
+}

@@ -1,0 +1,1 @@
+{"bodies": ["Halopro_base1.stl", "Halopro_base2.stl"], "mirrors": ["mirror.stl"], "projectors": [{"origin": [2.571758278209442e-15, 0.0, 7.0], "direction": [5.329070518200751e-15, 0.0, 14.299999999999995], "fov": 0.8552113334772214, "image": "testpattern.png"}]}
