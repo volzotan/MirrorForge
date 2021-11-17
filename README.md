@@ -25,3 +25,22 @@ TODO
 
 Open `circular_projection.blend` to familiarize yourself with a rendering setup featuring a laser pico-projector.
 The example file `twoway_camera.blend` is a camera setup.
+
+## Citation
+
+You can find the open-access paper in the ACM library: [Mirrorforge.pdf](https://dl.acm.org/10.1145/3490149.3501329)
+
+If you want to use and cite this work:
+
+```
+@inproceedings{10.1145/3490149.3501329,
+    author = {Getschmann, Christopher and Mthunzi, Everett and Echtler, Florian},
+    title = {MirrorForge: Rapid Prototyping of Complex Mirrors for Camera and Projector Systems},
+    year = {2022},
+    url = {https://doi.org/10.1145/3490149.3501329},
+    doi = {10.1145/3490149.3501329},
+    booktitle = {Sixteenth International Conference on Tangible, Embedded, and Embodied Interaction},
+    location = {Daejeon, Republic of Korea},
+    series = {TEI '22}
+}
+```
