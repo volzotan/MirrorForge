@@ -28,7 +28,7 @@ The example file `twoway_camera.blend` is a camera setup.
 
 ## Citation
 
-You can find the open-access paper in the ACM library: [Mirrorforge.pdf](https://dl.acm.org/10.1145/3490149.3501329)
+You can find the open-access paper in the ACM library: [Mirrorforge.pdf](https://dl.acm.org/doi/10.1145/3490149.3501329)
 
 If you want to use and cite this work:
 
