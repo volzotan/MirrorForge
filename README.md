@@ -9,8 +9,8 @@ This is the repository for [MirrorForge: Rapid Prototyping of Complex Mirrors fo
 ## Installation
 
 Copy the `addin` directory to your Fusion360 extension folder.  
-Install [Blender](https://www.blender.org/download/) and the [BlendLuxCore](https://luxcorerender.org/download/) Blender-Plugin.  
-In Blender enable the BlendLuxCore plugin in the plugins-tab in preferences.
+Install [Blender](https://www.blender.org/download/) and the [BlendLuxCore](https://luxcorerender.org/download/) Blender plugin.  
+In Blender enable the BlendLuxCore plugin in the plugins tab in preferences.
 
 Make sure to install a version of Blender which is explicitly supported by LuxCore.
 
@@ -21,14 +21,14 @@ Enable `Run on Startup` to permanently enable the MirrorForge Add-In.
 
 ## Examples
 
-TODO
+See the `examples` directory for two example outputs.
 
-Open `circular_projection.blend` to familiarize yourself with a rendering setup featuring a laser pico-projector.
+Open `circular_projection.blend` to familiarize yourself with a rendering setup featuring a laser pico projector.
 The example file `twoway_camera.blend` is a camera setup.
 
 ## Citation
 
-You can find the open-access paper in the ACM library: [Mirrorforge.pdf](https://dl.acm.org/doi/10.1145/3490149.3501329)
+You can find the open access paper in the ACM library: [Mirrorforge.pdf](https://dl.acm.org/doi/10.1145/3490149.3501329)
 
 If you want to use and cite this work:
 
@@ -44,3 +44,5 @@ If you want to use and cite this work:
     series = {TEI '22}
 }
 ```
+
+
