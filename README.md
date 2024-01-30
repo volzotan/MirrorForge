@@ -2,7 +2,7 @@
 
 ![](media/teaser.png)
 
-This is the repository for [MirrorForge: Rapid Prototyping of Complex Mirrors for Camera and Projector Systems](...), a processing and simulation pipeline to prototype complex mirror shapes by thermoforming or bending coated polystyrene sheets.
+This is the repository for [MirrorForge: Rapid Prototyping of Complex Mirrors for Camera and Projector Systems](https://doi.org/10.1145/3490149.3501329), a processing and simulation pipeline to prototype complex mirror shapes by thermoforming or bending coated polystyrene sheets.
 
 ![](media/workflow.png)
 
